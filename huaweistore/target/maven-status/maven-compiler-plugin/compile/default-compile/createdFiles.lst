@@ -1,0 +1,15 @@
+com\huawei\Application.class
+com\huawei\util\ResultCodeEnum.class
+com\huawei\model\AppInfo.class
+com\huawei\controller\IsvProduceController.class
+com\huawei\service\impl\IsvProduceServiceImpl.class
+com\huawei\model\IMessageResp.class
+com\huawei\util\IsvProduceAPI.class
+com\huawei\model\CheckInstanceInfo.class
+com\huawei\util\KeyPairUtil.class
+com\huawei\constant\IsvProduceConstant.class
+com\huawei\model\InstanceInfo.class
+com\huawei\service\IsvProduceService.class
+com\huawei\constant\Activity.class
+com\huawei\constant\RenewAction.class
+com\huawei\constant\ChangeStatus.class
